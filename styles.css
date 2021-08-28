@@ -42,3 +42,6 @@
         margin: 20px;
         padding: 20px;
     }
+    .nav-link:hover {
+        color: greenyellow;
+    }
