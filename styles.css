@@ -8,6 +8,7 @@
     height: 100%;
     border-right: solid;
     border-color: rgba(0, 22, 22, 0.4);
+    background-color: cornsilk;
   }
   #main-doc {
     position: absolute;
@@ -30,4 +31,7 @@
    }
     #navbartopic {
         font-size: 200%;
+    }
+    #menu {
+        font-size: 120%;
     }
