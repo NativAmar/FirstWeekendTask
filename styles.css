@@ -34,4 +34,11 @@
     }
     #menu {
         font-size: 120%;
+        
+    }
+    .main-section{
+        display: block;
+        background-color: darksalmon;
+        margin: 20px;
+        padding: 20px;
     }
